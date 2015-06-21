@@ -9,8 +9,8 @@ Something you should know: Though the name of the photos contains no logic (it c
 
 Functions:
   [Type 1] Quick classification - classify files and create folders to hold them 
-  [Type 2] Classification based on name - find files after user input the name. If found, create folder(s) and hold the file(s) in it 
-  [Type 3] Classification based on file extension - find files after user input the file type (mp3, doc, docx, etc). If found, create folder and hold the file in it 
+  [Type 2] Classification based on name - find files after a user input the name 
+  [Type 3] Classification based on file extension - find files after a user input the file type (mp3, doc, docx, etc)
 
 Usage: This tool is not only for managing photos, but also extended to make files in Windows manageble, for example the songs, documents, videos, etc. 
 
